@@ -8,8 +8,7 @@ def multiplicacao (a, b):
   pass
 
 def subtracao (a, b):
-  pass
-
+  return a - b
 def soma (a, b):
   return a + b
 
